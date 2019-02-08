@@ -1,2 +1,11 @@
 # Chord-Protocol
-implement in Elixir using the actor model the Chord protocol and a simple object access service to prove its usefulness
+
+## Contents
+
+- Group Members
+- Introduction
+- Project Structure
+- Pre-requisites
+- Assumptions
+- Program Inputs
+- Instructions to run the program
